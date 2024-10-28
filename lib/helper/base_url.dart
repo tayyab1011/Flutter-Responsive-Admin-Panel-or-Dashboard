@@ -1,0 +1,1 @@
+const baseImageUrl = 'http://54.199.29.47:3000/';
