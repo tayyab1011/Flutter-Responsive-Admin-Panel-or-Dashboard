@@ -34,7 +34,7 @@ class _AllProductsScreenState extends State<AllProductsScreen> {
   getAllProducts() async {
     var headersList = {
       'Accept': '*/*',
-      'User-Agent': 'Thunder Client (https://www.thunderclient.com)'
+      
     };
     var url = Uri.parse('http://54.199.29.47:3000/api/getproducts');
 
